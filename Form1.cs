@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
             BackColor = Product.BackColor;
             storage = new Storage(new List<FoodProduct>());
-            storage.AddProduct(new FoodProduct());
+            //storage.AddProduct(new FoodProduct());
             listBox1.DataSource = storage.Products;
             listBox1.DisplayMember = "Name";
         }
@@ -45,10 +45,12 @@ namespace WindowsFormsApp1
                 MessageBox.Show("Incorrect data");
                 return;
             }
+
             FoodProduct foodProduct = new FoodProduct(textBox4.Text, price, textBox5.Text, dateTimePicker1.Value, textBox10.Text);
             // Product product = new Product(textBox4.Text, price, textBox5.Text, dateTimePicker1.Value);
             //storage.AddProduct(product);
             storage.AddProduct(foodProduct);
+            
             listBox1.DataSource = null;
             listBox1.DataSource = storage.Products;
             listBox1.DisplayMember = "Name";
@@ -56,6 +58,13 @@ namespace WindowsFormsApp1
             textBox2.Clear();
             textBox5.Clear();
             textBox10.Clear();
+
+            CheckedProducts cp = new CheckedProducts();
+            cp.check_products(storage);
+            listBox2.DataSource = cp.SpoiledPr;
+            listBox2.DisplayMember = "Name";
+            listBox3.DataSource = cp.FreshPr;
+            listBox3.DisplayMember = "Name";
         }
 
         private void textBox7_TextChanged(object sender, EventArgs e)
@@ -249,6 +258,11 @@ namespace WindowsFormsApp1
         }
 
         private void textBox11_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
         {
 
         }

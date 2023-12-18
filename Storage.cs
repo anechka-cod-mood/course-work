@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WindowsFormsApp1
 {
 
-    internal struct Storage
+    public struct Storage
     {
         public List<FoodProduct> Products { get; set; }
 

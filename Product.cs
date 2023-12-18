@@ -10,10 +10,12 @@ namespace WindowsFormsApp1
 {
      public class Product
     {
+        private int id;
         private double price;
         private string name;
         public static readonly Color BackColor;
 
+        public int Id { get; set; }
         public string Name { get => name; set {
                 if (char.IsUpper(value[0]))
                 {

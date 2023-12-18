@@ -56,6 +56,10 @@
             this.label13 = new System.Windows.Forms.Label();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.listBox3 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // textBox2
@@ -349,12 +353,55 @@
             this.textBox11.TabIndex = 33;
             this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label14.Location = new System.Drawing.Point(194, 390);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(143, 16);
+            this.label14.TabIndex = 34;
+            this.label14.Text = "SPOILED PRODUCTS";
+            this.label14.Click += new System.EventHandler(this.label14_Click);
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 16;
+            this.listBox2.Location = new System.Drawing.Point(12, 424);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(512, 212);
+            this.listBox2.TabIndex = 35;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label15.Location = new System.Drawing.Point(832, 390);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(132, 16);
+            this.label15.TabIndex = 36;
+            this.label15.Text = "FRESH PRODUCTS";
+            // 
+            // listBox3
+            // 
+            this.listBox3.FormattingEnabled = true;
+            this.listBox3.ItemHeight = 16;
+            this.listBox3.Location = new System.Drawing.Point(653, 424);
+            this.listBox3.Name = "listBox3";
+            this.listBox3.Size = new System.Drawing.Size(466, 212);
+            this.listBox3.TabIndex = 37;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(1178, 397);
+            this.ClientSize = new System.Drawing.Size(1157, 657);
+            this.Controls.Add(this.listBox3);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.label14);
             this.Controls.Add(this.textBox11);
             this.Controls.Add(this.textBox10);
             this.Controls.Add(this.label13);
@@ -428,6 +475,10 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.ListBox listBox3;
     }
 }
 
