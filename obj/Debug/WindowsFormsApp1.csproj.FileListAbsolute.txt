@@ -1,0 +1,20 @@
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lledd\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lledd\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lledd\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lledd\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Downloads\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\ЛАБА 1 ПО ОП ЕБАННОЙ ДУРЫ\obj\Debug\WindowsFormsApp1.pdb
